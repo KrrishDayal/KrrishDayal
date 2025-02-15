@@ -2,11 +2,11 @@
 ## About Me  
 3rd-year ECE student passionate about **Machine Learning, Cybersecurity & IoT**  
 Working on **Adversarial Attacks on Automated Vehicles**  
-Built **AI Guardian** (99 RUC score) – Anomaly detection for security  
+Built **AI Guardian** (98 RUC score) – Anomaly detection for security  
 Love **Java, Python, and Deep Learning**  
 Exploring **Internship opportunities** in AI Security & ML  
 
-## 🛠 Tech Stack  
+## Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2312100E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
@@ -20,6 +20,6 @@ Exploring **Internship opportunities** in AI Security & ML
 ## Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrrishDayal&layout=compact&theme=dark)
 
-## 📈 GitHub Stats  
+## GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrrishDayal&theme=dark&hide_border=true)  
 
