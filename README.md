@@ -2,7 +2,7 @@
 ## About Me  
 3rd-year ECE student passionate about **Machine Learning, Cybersecurity & IoT**  
 Working on **Adversarial Attacks on Automated Vehicles**  
-Built **AI Guardian** (98 RUC score) – Anomaly detection for security  
+Built **AI Guardian** (0.9865 ROC AUC score) – Anomaly detection for security  
 Love **Java, Python, and Deep Learning**  
 Exploring **Internship opportunities** in AI Security & ML  
 
