@@ -51,10 +51,10 @@ Exploring **Internship opportunities** in AI Security & ML
 ---
 
 ### Projects Highlight:
-- 🔹 **[Stock Market Predictor](https://github.com/KrrishDayal/Stock-Market-Prediction)** – ML model that predicts stock trends  
-- 🔹 **[AI Guardian](https://github.com/KrrishDayal/AI-Guardian)** – Anomaly detection system using unsupervised learning  
-- 🔹 **[Smart Expense Tracker](https://github.com/your-username/Smart-Expense-Categorizer)** – Categorizes spending with ML  
-- 🔹 **[Smart Home Simulator](https://github.com/your-username/Smart-Home-Simulator)** – Java project simulating home automation
+-  **[Stock Market Predictor](https://github.com/KrrishDayal/Stock-Market-Prediction)** – ML model that predicts stock trends  
+-  **[AI Guardian](https://github.com/KrrishDayal/AI-Guardian)** – Anomaly detection system using unsupervised learning  
+-  **[Smart Expense Tracker](https://github.com/your-username/Smart-Expense-Categorizer)** – Categorizes spending with ML  
+-  **[Smart Home Simulator](https://github.com/your-username/Smart-Home-Simulator)** – Java project simulating home automation
 
 ---
 
