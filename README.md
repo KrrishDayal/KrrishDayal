@@ -15,27 +15,13 @@ Exploring **Internship opportunities** in AI Security & ML
 
 
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrrishDayal&show_icons=true&theme=dark)
-
-## Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrrishDayal&layout=compact&theme=dark)
-
-## GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrrishDayal&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrrishDayal&theme=dark&hide_border=true) 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">An enthusiastic developer passionate about tech, AI, and building cool stuff 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Developer;ML+%7C+Java+%7C+IoT+%7C+Electronics;Always+Learning+New+Things!+💡" alt="Typing SVG" />
 </p>
-
----
-
-### 🧑‍💻 About Me:
-- 🔭 I’m currently working on: **[Your Current Project or Internship]**
-- 🌱 I’m learning: **Machine Learning | Backend Development | CAT Prep**
-- 📫 How to reach me: **[your.email@example.com]**
-- 🧠 Fun fact: I love solving real-world problems using tech!
 
 ---
 
@@ -52,7 +38,7 @@ Exploring **Internship opportunities** in AI Security & ML
 
 ---
 
-### 📈 GitHub Stats:
+### GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KrrishDayal&show_icons=true&theme=github_dark&hide_border=true" alt="your stats" />
   <br/>
@@ -79,8 +65,8 @@ Exploring **Internship opportunities** in AI Security & ML
 
 ---
 <!-- Optional: Add fun contribution graph -->
-<!--
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark)
--->
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KrrishDayal&theme=react-dark)
+
 
 
