@@ -1,4 +1,5 @@
-## Hi there 
+## Hi there
+
 ## About Me  
 3rd-year ECE student passionate about **Machine Learning, Cybersecurity & IoT**  
 Working on **Adversarial Attacks on Automated Vehicles**  
@@ -16,8 +17,8 @@ Exploring **Internship opportunities** in AI Security & ML
 
 ## GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrrishDayal&theme=dark&hide_border=true) 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">An enthusiastic developer passionate about tech, AI, and building cool stuff 🚀</h3>
+<h1 align="center">Hi , I'm Krrish</h1>
+<h3 align="center">An enthusiastic developer passionate about tech, AI, and building cool stuff </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Developer;ML+%7C+Java+%7C+IoT+%7C+Electronics;Always+Learning+New+Things!+💡" alt="Typing SVG" />
@@ -25,7 +26,7 @@ Exploring **Internship opportunities** in AI Security & ML
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -49,24 +50,12 @@ Exploring **Internship opportunities** in AI Security & ML
 
 ---
 
-### 🚀 Projects Highlight:
+### Projects Highlight:
 - 🔹 **[Stock Market Predictor](https://github.com/KrrishDayal/Stock-Market-Prediction)** – ML model that predicts stock trends  
 - 🔹 **[AI Guardian](https://github.com/KrrishDayal/AI-Guardian)** – Anomaly detection system using unsupervised learning  
 - 🔹 **[Smart Expense Tracker](https://github.com/your-username/Smart-Expense-Categorizer)** – Categorizes spending with ML  
 - 🔹 **[Smart Home Simulator](https://github.com/your-username/Smart-Home-Simulator)** – Java project simulating home automation
 
 ---
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-<!-- Optional: Add fun contribution graph -->
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KrrishDayal&theme=react-dark)
-
 
 
