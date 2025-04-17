@@ -1,8 +1,5 @@
 ## Hi there
 
-
-
-
 ## About Me  
 3rd-year ECE student passionate about **Machine Learning, Cybersecurity & IoT**  
 Working on **Adversarial Attacks on Automated Vehicles**  
