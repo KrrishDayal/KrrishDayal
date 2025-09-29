@@ -57,6 +57,8 @@ Exploring **Internship opportunities** in AI Security & ML
 -  **[Smart Home Simulator](https://github.com/your-username/Smart-Home-Simulator)** – Java project simulating home automation
 
 ---
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/KrrishDayal/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=800&color=00FFD1&center=true&vCenter=true&width=550&lines=+Deep+Traffic+Control+(Reinforcement+Learning);+Multi+Client+Chat+App+(Java+Sockets);+Sentiment+Analyzer+(NLP+Project);+Stock+Market+Predictor;+Movie+Recommendation+System;+AI+Guardian+Anomaly+Detector" alt="Typing SVG" />
